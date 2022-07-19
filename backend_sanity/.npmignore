@@ -6,7 +6,15 @@
 /coverage
 
 # Dependency directories
-node_modules
+/node_modules
 
 # Compiled sanity studio
 /dist
+
+node_modules/
+.cache/
+dist/
+.env
+.DS_Store
+coverage/
+.vscode/
